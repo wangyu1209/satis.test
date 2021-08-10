@@ -1,0 +1,16 @@
+{
+    "name": "wangyu1209/test",
+    "description": "This is test",
+    "autoload": {
+        "psr-4": {
+            "Wangyu1209\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wangyu1209",
+            "email": "755136227@qq.com"
+        }
+    ],
+    "require": {}
+}
